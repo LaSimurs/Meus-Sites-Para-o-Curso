@@ -204,6 +204,10 @@ footer {
     padding: 5px;
 }
 
+footer strong{
+    color: white;
+}
+
 footer a {
     color: white;
     font-weight: bolder;
