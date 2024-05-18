@@ -1,11 +1,10 @@
 @charset "UTF-8";
 
-@media screen and (max-width: 720px) {
+@media screen and (max-width: 922px) {
 
     header{
         flex-direction: column;
         margin-left: none;
-
     }
 
     header h1 {
@@ -17,8 +16,17 @@
 
     h2 {
         font-size: 38px;
+        line-height: 10px;
+        margin-bottom: 20px;
     }
 
+    #h3 {
+        margin-top: 0px;
+    }
+
+    #sla {
+        display: inline-block;
+    }
     form {
         margin: 0 auto;
         width: 100%;
@@ -26,6 +34,7 @@
 
     input {
         align-self: center;
+        width: 60%;
     }
 
     img {
@@ -35,5 +44,8 @@
     ul {
         text-align: center;
         margin-right: 36px;
+    }
+    aside{
+        display: block;
     }
 }

@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+@media screen and (max-width: 1145px){
+    img {
+        display: none;
+    }
+
+    header {
+        box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.158);
+    }
+
+    aside {
+        display: flex;
+        flex-direction: row;
+        margin-top: 30px;
+    }
+    h2 {
+        line-height: 40px;
+        margin-top: 5px;
+        margin-bottom: 10px;
+    }
+
+    #h3{
+        line-height: 1px;
+    }
+
+    #sla{
+        display: flex;
+        flex-direction: column;
+    }
+
+    #teste {
+        margin-right: 80px;
+    }
+
+    .coluna {
+        flex-direction: column;
+    }
+
+    form {
+        display: flex;
+        flex-direction: column;
+    }
+}
