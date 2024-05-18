@@ -20,13 +20,7 @@
         margin-bottom: 10px;
     }
 
-    #h3{
-        line-height: 1px;
-    }
-
     #sla{
-        display: flex;
-        flex-direction: column;
     }
 
     #teste {

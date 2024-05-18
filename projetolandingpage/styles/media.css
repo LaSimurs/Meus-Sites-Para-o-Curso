@@ -16,15 +16,13 @@
 
     h2 {
         font-size: 38px;
-        line-height: 10px;
-        margin-bottom: 20px;
+        margin: 0px;
+        padding: 0px;
+        margin-left: 50px;
+        text-align: justify;
     }
 
     #h3 {
-        margin-top: 0px;
-    }
-
-    #sla {
         display: inline-block;
     }
     form {
