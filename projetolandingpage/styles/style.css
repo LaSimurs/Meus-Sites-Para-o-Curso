@@ -68,7 +68,7 @@ h2{
 main{
     display: flex;
     flex-direction: row;
-    margin-top: 25px;
+    margin-top: 50px;
 }
 
 p {
